@@ -1,0 +1,8 @@
+inner class is also 1 of four nested classes
+there are 4 types of nested classes
+1. Static nested classes
+2. Non-static nested classes aka inner class
+3. Local class - inner class defined inside code block aka method
+4. Anonymous class - nested class without a class name
+
+1 - Static nested class is mainly used to associate a class with its outer class
