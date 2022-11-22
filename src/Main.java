@@ -18,8 +18,8 @@ public class Main {
                 System.out.println(title + " was clicked");
             }
         }
-       // myB.setOnClickListener(new ClickListener());
-        myB.setOnClickListener(new Button.OnClickListener() {
+       // myB.setOnClickListener(new ClickListener()); // local inner class
+        myB.setOnClickListener(new Button.OnClickListener() { // Anonymous inner class
             @Override
             public void onClick(String title) {
                 System.out.println(title + " was clicked");

@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// static and non-static inner classes
 public class GearBox {
 
     private ArrayList<Gear> gears;
